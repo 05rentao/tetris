@@ -15,7 +15,6 @@ public class TShape extends Shapes {
 
     @Override
     public int[][] rotate(int[][] board) throws InvalidMoveException {
-        System.out.println("rotation called");
         rotation++;
         if (rotation > 3) {
             rotation = 0;
@@ -24,7 +23,6 @@ public class TShape extends Shapes {
         try {
             return paintShape(board);
         } catch (InvalidMoveException e) {
-            System.out.println("rotation fails");
             rotation--;
             if (rotation < 0) {
                 rotation = 3;
