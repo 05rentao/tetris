@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9733034f-6303-49c8-b869-2ef5f75afc53" name="Changes" comment="Cleaned up comments,&#10;Fixed bug:&#10;- Shape getting stuck on side of board.">
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/IShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/InvalidMoveException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/JShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/LShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/OShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/RunTetris.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/SShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/Shapes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/TShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/TetrisBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/main/java/org/rentao/tetris/ZShape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1200 HW/new hw09_local_temp/src/test/java/org/rentao/tetris/TetrisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/poison.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +28,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -76,7 +65,7 @@
     "JUnit.TicTacToeTest.executor": "Run",
     "Makefile Target.all.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "C:/Users/grace/OneDrive/Desktop/1200 HW/hw09_local_temp/src/test/java",
@@ -86,7 +75,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -234,6 +223,7 @@
       <workItem from="1736115300169" duration="905000" />
       <workItem from="1736116220641" duration="4894000" />
       <workItem from="1736122796678" duration="32000" />
+      <workItem from="1736125024695" duration="1562000" />
     </task>
     <task id="LOCAL-00001" summary="Cleaned up comments,&#10;Fixed bug:&#10;- Shape getting stuck on side of board.">
       <option name="closed" value="true" />

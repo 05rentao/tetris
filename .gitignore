@@ -1,8 +1,8 @@
 # Maven build directory
-/target/
+target/
 # IntelliJ IDEA files
-/.idea/
-/.run/
+.idea/
+.run/
 
 # OS-specific files
 *.DS_Store
