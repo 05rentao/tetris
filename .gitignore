@@ -1,0 +1,9 @@
+# Maven build directory
+/target/
+# IntelliJ IDEA files
+/.idea/
+/.run/
+
+# OS-specific files
+*.DS_Store
+Thumbs.db
